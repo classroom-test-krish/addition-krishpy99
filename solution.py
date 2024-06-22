@@ -1,4 +1,2 @@
-def addition():
-  #code goes here
-  pass
-  
+def addition(a, b):
+  return a+b
